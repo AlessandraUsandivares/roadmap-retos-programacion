@@ -27,6 +27,34 @@
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
  */
+# https://python.org
+# hello world
+"""
+comentario entre lineas
+"""
+
+'''
+comentario entre lineas
+'''
+my_variable = "variable"
+my_variable = "Nuevo valor de variable"
+
+MY_CONSTANT = "Mi constante"  # por convención
+my_int = 2
+my_float = 3.5
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto"
+my_other_string = 'Mi otra cadena de texto'
+
+print("¡Hola, Python!")
+
+print(type(my_int))
+print(type(my_float))
+print(type(my_bool))
+print(type(my_string))
+
+
 ```
 #### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
